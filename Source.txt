@@ -1,0 +1,2 @@
+https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency
+https://github.com/christiandelbianco/blazor-notification-db-record-change
